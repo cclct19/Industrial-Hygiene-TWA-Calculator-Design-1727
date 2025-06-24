@@ -495,7 +495,7 @@ const TWACalculator = () => {
               />
             </>
           )}
-        </div>
+        </motion.div>
       </div>
 
       {/* Saved Projects Modal */}
